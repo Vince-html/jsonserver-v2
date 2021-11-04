@@ -1,0 +1,249 @@
+{
+  "europe": 
+
+      {
+      "continentName": "Europa",
+      "information": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "language": "60",
+      "countries": "50",
+      "image": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/06/passagens-aereas-londres-capa2019-05-820x430.jpg",
+      "data":
+    [{ 
+      "id": 1, 
+      "city": "Florença", 
+      "country": "Itália", 
+      "description": "Florença é, de fato, um museu a céu aberto…daqueles lugares que a gente tem vontade de guardar num potinho, de tão especiais. Monumentos grandiosos como o imponente Duomo, com seus mármores verdes, brancos e rosas, impressionam. A cúpula, vista de vários ângulos da cidade, está lá para mostrar que Florença é, sem dúvida, um dos destinos mais importantes e belos da Itália. Sem contar com a atmosfera de romance que paira sobre a cidade, que tem a Ponte Vecchio como cartão-postal e é rodeada pelos campos verdes da Toscana.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+      "image": "https://images.squarespace-cdn.com/content/v1/52c0b141e4b0b87925bacd01/1527197417968-TH4P418QFN1DM827CMN8/fazer+floren%C3%A7a+roteiro?format=1000w"
+    },
+    { 
+      "id": 2, 
+      "city": "Roma", 
+      "country": "Itália", 
+      "description": "Roma é daqueles destinos completos e que conquistam o coração do viajante logo de cara. Afinal, nada como andar por ruazinhas de paralelepípedo supercharmosas e dar de cara com belas praças, museus e monumentos que são verdadeiros patrimônios históricos. Sem contar com parques cheios de verde, gelaterias e cafés que servem sorvetes deliciosos, o verdadeiro cappuccino, restaurantes com cardápios repletos de opções de massas e vinhos. Nós, do MD, tivemos o privilégio de estar na cidade diversas vezes e reunimos neste post 40 dicas para uma viagem perfeita à capital da Itália.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+      "image": "https://www.melhoresdestinos.com.br/wp-content/uploads/2017/09/roma-italia_1067-820x547.jpg"
+    },
+    { 
+      "id": 3, 
+      "city": "Sevilha", 
+      "country": "Espanha", 
+      "description": "Visitar a sedutora Sevilha, na capital da região da Andaluzia, é como adentrar o passado. Um centro histórico cheio de história, construções imponentes como a catedral – a maior igreja gótica do mundo – o Real Alcázar de Sevilha, entre muitas outras atrações. Ah, acredita-se que o flamenco tenha nascido no bairro de Triana, portanto, aproveite para se jogar nesse universo de dança e muita cultura!",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png",
+      "image": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/08/seville-espanha-820x545.jpg"
+    },
+    { 
+      "id": 4, 
+      "city": "Barcelona", 
+      "country": "Espanha", 
+      "description": "Entra ano, sai ano e Barcelona continua a figurar na lista das cidades mais amadas da Europa. Um título não muito celebrado pelos moradores locais, que reclamam bastante da grande quantidade de turistas. Apesar disso, a capital da Catalunha é um destino completo, uma cidade onde a história está viva, impressa em cada ruela da Ciutat Vella, e a beleza de construções como a Sagrada Família é de deixar qualquer um de queixo caído. No post O que fazer em Barcelona – dicas para a sua viagem à capital da Catalunha a gente conta todas as últimas novidades da cidade!",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ajuntament_de_Barcelona_%283400686886%29.jpg/1024px-Ajuntament_de_Barcelona_%283400686886%29.jpg"
+    },
+    { 
+      "id": 5, 
+      "city": "Porto", 
+      "country": "Portugal", 
+      "description": "Ao Norte de Portugal, está o Porto, a segunda maior cidade e também uma das mais antigas do país. Situada à margem direita do Rio Douro, o destino encanta à primeira vista pela mistura do concreto das construções antigas com paisagens naturais de tirar o fôlego, história, gastronomia de primeira, atrações para todos os públicos e também pela receptividade com o turista.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2560px-Flag_of_Portugal.svg.png",
+      "image": "https://www.melhoresdestinos.com.br/wp-content/uploads/2018/05/ponte-dom-luis-porto-portugal-820x461.jpg"
+    }]
+  },
+  "america": 
+      {
+      "continentName": "Américas",
+      "information": "América é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. O seu extremo oriental insular encontra-se na Groenlândia, o Nordostrundingen, enquanto o ocidental localiza-se nas Aleutas.",
+      "language": "37",
+      "countries": "35",
+      "image": "https://www.remessaonline.com.br/blog/wp-content/uploads/2020/01/Crescimento-dos-Estados-Unidos-os-pr%C3%B3ximos-anos-em-cheque_1434217526.jpg",
+      "data":
+    [{ 
+      "id": 1, 
+      "city": "Montevidéu", 
+      "country": "Uruguai", 
+      "description": "Montevideu, capital do Uruguai, é uma grande cidade ao longo da Baía de Montevideu. Gira à volta da Plaza de la Independencia, que outrora albergava uma cidadela espanhola. Esta plaza leva à Ciudad Vieja (cidade velha), com edifícios art déco, casas coloniais e pontos de referência como o eminente Palácio Salvo e a sala de espetáculos neoclássicos, Teatro Solís. O Mercado del Puerto é um antigo mercado portuário repleto de churrascarias.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Uruguay_%281828-1830%29.svg/600px-Flag_of_Uruguay_%281828-1830%29.svg.png",
+      "image": "https://www.segueviagem.com.br/wp-content/uploads/2019/12/shutterstock_1434830483.jpg"
+    },
+    { 
+      "id": 2, 
+      "city": "Buenos Aires", 
+      "country": "Argentina", 
+      "description": "Buenos Aires é a capital cosmopolita da Argentina. Seu centro é a Praça de Maio, com imponentes edifícios do século 19, como a Casa Rosada, o emblemático palácio presidencial com sacadas. Outras importantes atrações são o Teatro Colón, uma casa de ópera inaugurada em 1908 com cerca de 2.500 lugares, e o moderno museu MALBA, com sua coleção de arte latino-americana.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png",
+      "image": "https://www.daninoce.com.br/wp-content/uploads/2018/01/o-que-voce-precisa-saber-antes-de-ir-a-buenos-aires-dani-noce-imagem-destaque-960x625.jpg"
+    },
+    { 
+      "id": 3, 
+      "city": "Rio de Janeiro", 
+      "country": "Brasil", 
+      "description": "O Rio de Janeiro é uma grande cidade brasileira à beira-mar, famosa pelas praias de Copacabana e Ipanema, pela estátua de 38 metros de altura do Cristo Redentor, no topo do Corcovado, e pelo Pão de Açúcar, um pico de granito com teleféricos até seu cume. A cidade também é conhecida pelas grandes favelas. O empolgante Carnaval, com carros alegóricos, fantasias extravagantes e sambistas, é considerado o maior do mundo.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png",
+      "image": "https://super.abril.com.br/wp-content/uploads/2017/12/rio-de-janeiro.png?w=1024"
+    },
+    { 
+      "id": 4, 
+      "city": "Los Angeles", 
+      "country": "Estados Unidos", 
+      "description": "Los Angeles é uma grande cidade do sul da Califórnia e também o centro da indústria de cinema e televisão do país. Perto do famoso letreiro de Hollywood, é possível conhecer os bastidores das produções nos estúdios Paramount Pictures, Universal e Warner Brothers. Na Hollywood Boulevard, o TCL Chinese Theatre exibe impressões de mãos e pés de celebridades na Calçada da Fama, uma homenagem a milhares de astros, e se pode comprar mapas das casas dos artistas.",
+      "flag": "https://s3.static.brasilescola.uol.com.br/be/conteudo/images/estados-unidos.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/20190616154621%21Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg"
+    },
+    { 
+      "id": 5, 
+      "city": "San José", 
+      "country": "Costa Rica", 
+      "description": "São José, a capital da Costa Rica, está localizada na região do Vale Central, com as Montanhas Talamanca ao sul e vulcões ao norte. A cidade se distingue por suas construções coloniais espanholas, como o Teatro Nacional da Costa Rica, em estilo neoclássico e com vista para a Plaza de la Cultura no centro da cidade, um famoso ponto de encontro. Abaixo da praça, o Museu do Ouro Pré-Colombiano exibe centenas de artefatos reluzentes.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1200px-Flag_of_Costa_Rica.svg.png",
+      "image": "https://cdn.getyourguide.com/img/location/5e6a1a4570c88.jpeg/88.jpg"
+    }]
+  },
+  "asia": 
+      {
+      "continentName": "Ásia",
+      "information": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+      "language": "51",
+      "countries": "50",
+      "image": "https://catracalivre.com.br/wp-content/uploads/2020/06/istock-876560704-910x607.jpg",
+      "data":
+    [{ 
+      "id": 1, 
+      "city": "Bangkok", 
+      "country": "Tailândia", 
+      "description": "Bangcoc, a capital da Tailândia, é uma grande cidade conhecida pelos santuários ornamentados e pela animada vida urbana. O rio Chao Phraya, repleto de barcos, abastece a rede de canais, passando pelo distrito real de Rattanakosin, onde fica o opulento Grande Palácio e seu sagrado templo Wat Phra Kaew. Nas proximidades, fica o templo Wat Pho, que conta com um enorme Buda reclinado. Na margem oposta, encontra-se o Templo Wat Arun, com uma escadaria íngreme e um pináculo em estilo khmer.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png",
+      "image": "https://turistaprofissional.com/wp-content/uploads/2017/11/grand-palace-bangkok.jpg"
+    },
+    { 
+      "id": 2, 
+      "city": "Tóquio", 
+      "country": "Japão", 
+      "description": "Tóquio, a movimentada capital do Japão, combina o estilo ultramoderno com o tradicional, desde arranha-céus iluminados por neon a templos históricos. O opulento santuário xintoísta Meiji é conhecido por seu altíssimo portão e pelas florestas circundantes. O Palácio Imperial fica localizado em meio a jardins públicos. Os muitos museus da cidade oferecem exposições que variam de arte clássica (no Museu Nacional de Tóquio) a um teatro kabuki reconstruído (no Museu Edo-Tokyo).",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+      "image": "https://ci-prod.imgix.net/upload/galeriadeimagens/00206964.jpg"
+    },
+    { 
+      "id": 3, 
+      "city": "Hong Kong", 
+      "country": "China", 
+      "description": "Hong Kong, ex-colônia britânica, é um território autônomo no sudeste da China. Seu centro urbano vibrante e densamente povoado é também um porto importante e um centro financeiro global de destaque, com um horizonte marcado por arranha-céus. O distrito comercial exibe monumentos arquitetônicos como a Torre do Bank of China, de I. M. Pei. Hong Kong é também um destino importante para compras, famoso pela alfaiataria sob medida e pelo Mercado Noturno da Rua do Templo. ",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/800px-Flag_of_Hong_Kong.svg.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/800px-Hong_Kong_Harbour_Night_2019-06-11.jpg"
+    },
+    { 
+      "id": 4, 
+      "city": "DUBAI", 
+      "country": "Emirados Árabes Unidos", 
+      "description": "Dubai é uma cidade e um emirado dos Emirados Árabes Unidos conhecida pelos shoppings de luxo, pela arquitetura ultramoderna e pela animada vida noturna. Burj Khalifa, uma torre de 830 metros de altura, domina a linha do horizonte repleta de arranha-céus. Na base, há a Fonte de Dubai, com jatos de água e luzes coreografados ao som de música. Nas ilhas artificiais próximas à costa, fica o Hotel Atlantis, um resort com parques aquáticos e de animais marinhos.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png",
+      "image": "https://assistentedeviagem.com.br/blog/wp-content/uploads/2021/04/dubai.jpg"
+    },
+    { 
+      "id": 5, 
+      "city": "Deli", 
+      "country": "Índia", 
+      "description": "Délhi, a capital da Índia, é uma imensa área metropolitana no norte do país. Na Antiga Délhi, bairro que remonta ao século XVII, fica localizado o imponente Forte Vermelho, da era Mogol, que é um símbolo da Índia, e a grande mesquita Jama Masjid, cujo pátio acomoda 25.000 pessoas. Perto dali, fica o Chandni Chowk, um animado mercado repleto de bancas de comida, lojas de doces e barracas de especiarias.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/2560px-Flag_of_India.svg.png",
+      "image": "https://ci-prod.imgix.net/upload/galeriadeimagens/00206532.jpg"
+    }]
+  },
+  "africa": 
+      {
+      "continentName": "África",
+      "information": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes.",
+      "language": "50",
+      "countries": "56",
+      "image": "https://www.segurospromo.com.br/blog/wp-content/uploads/2019/04/viagem-a-africa-750x360.jpg",
+      "data":
+    [{ 
+      "id": 1, 
+      "city": "Lagos", 
+      "country": "Nigéria", 
+      "description": "Lagos é a maior cidade da Nigéria e expande-se para o interior a partir do Golfo da Guiné, sobre a Lagoa de Lagos. A ilha Victoria, o centro financeiro da metrópole, é conhecida pelas estâncias balneares, as boutiques e a vida noturna. A norte, a ilha de Lagos alberga o Museu Nacional da Nigéria, que exibe artefactos culturais e artesanato. Nas proximidades está o Freedom Park, outrora uma prisão da era colonial e agora um grande espaço de concertos e eventos públicos.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1280px-Flag_of_Nigeria.svg.png",      
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/2014_Victoria_Island_Lagos_Nigeria_15006436297.jpg"
+    },
+    { 
+      "id": 2, 
+      "city": "Kinshasa", 
+      "country": "República Democrática do Congo", 
+      "description": "Quinxassa, Quinxasa ou Kinshasa é a capital e a maior cidade da República Democrática do Congo. Constitui uma cidade com estatuto equivalente ao das províncias.",
+      "flag": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/311ef5005ffe9beadd64c50e6f8b31a1.jpg",
+      "image": "https://www.momondo.com.br/rimg/dimg/18/b7/daba5399-city-44780-17314d218c7.jpg?width=1366&height=768&xhint=2012&yhint=1006&crop=true"
+    },
+    { 
+      "id": 3, 
+      "city": "Luanda", 
+      "country": "Angola", 
+      "description": "Luanda, capital de Angola, é uma cidade portuária na costa oeste da África do Sul. Um passeio à beira-mar, conhecido como a Marginal, estende-se ao longo da Baía de Luanda. Nas proximidades, encontra-se a bem preservada Fortaleza de São Miguel, que agora alberga o Museu das Forças Armadas. O forte tem vistas para o porto e para a Ilha do Cabo, uma longa e estreita península na baía com praias, bares e restaurantes.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/2560px-Flag_of_Angola.svg.png",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/01/31/CIDADE%20DE%20LUANDA.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg"
+    },
+    { 
+      "id": 4, 
+      "city": "Cidade do Cabo", 
+      "country": "África do Sul", 
+      "description": "A Cidade do Cabo é uma cidade portuária na costa sudoeste da África do Sul, em uma península ao pé da imponente Montanha da Mesa. Bondes sobem lentamente até o topo plano da montanha, que ostenta vistas panorâmicas da cidade, do agitado porto e dos barcos a caminho da ilha Robben, famosa prisão na qual Nelson Mandela foi encarcerado e que agora é um museu.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2e/1e/cape-town.jpg?w=700&h=-1&s=1"
+    },
+    { 
+      "id": 5, 
+      "city": "Addis Ababa", 
+      "country": "Etiópia", 
+      "description": "Adis Abeba é a extensa capital da Etiópia, nas montanhas que fazem fronteira com o Grande Vale do Rift, e é o centro de comércio e de cultura do país. O Museu Nacional exibe arte etíope, artesanato tradicional e fósseis pré-históricos, inclusive réplicas do famoso hominídeo primitivo, 'Lucy'. A Catedral de Santíssima Trindade, onde se encontra a sepultura do imperador do século XX, Haile Selassie, tem uma cúpula dourada e é um ponto de referência arquitetónico de estilo neobarroco.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Flag_of_Ethiopia_%281996-2009%29.png",
+      "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/82/83/56.jpg"
+    }]
+  },
+  "oceania": 
+      {
+      "continentName": "Oceania",
+      "information": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico. O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville.",
+      "language": "18",
+      "countries": "16",
+      "image": "https://www.infoescola.com/wp-content/uploads/2016/09/economia-oceania-273380090.jpg",
+      "data":
+    [{ 
+      "id": 1, 
+      "city": "Sidney", 
+      "country": "Austrália", 
+      "description": "Sydney, capital do estado de Nova Gales do Sul e uma das maiores cidades da Austrália, é especialmente conhecida pela Ópera de Sydney, que fica na orla e tem um design inspirado em velas de barco. O enorme Porto Darling e o porto de Circular Quay, de menores dimensões, são centros da vida à beira-mar. Nas proximidades, ficam a Ponte da Baía de Sydney, em forma de arco, e o Jardim Botânico Real. A Skywalk, plataforma externa da Torre de Sydney, oferece uma visão de 360 graus da cidade e dos subúrbios.",
+      "flag": "https://a-static.mlcdn.com.br/1500x1500/bandeira-do-australia-22x32cm-banderminas/wgilbandeiras/176/9d8bc6b51745eac2005201d5bd218dfa.jpg",
+      "image": "https://www.choiceintercambio.com/wp-content/uploads/2015/09/sidney.jpg"
+    },
+    { 
+      "id": 2, 
+      "city": "Milford Sound", 
+      "country": "Nova Zelândia", 
+      "description": "Milford Sound é um fiorde na ilha Sul, na Nova Zelândia, cavado pelo degelo nas montanhas e pela ação do vento. É o principal ponto turístico natural da Nova Zelândia. O fiorde se encontra no segundo ponto mais pluvioso do mundo e tem seu ponto culminante no Pico Mitre, a 1692 metros de altitude.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Milford_sound_Nouvelle_Z%C3%A9lande_03_mars_2005.jpg"
+    },
+    { 
+      "id": 3, 
+      "city": "Ilha de Páscoa", 
+      "country": "Chile", 
+      "description": "A Ilha de Páscoa, território chileno, é uma ilha vulcânica remota na Polinésia. Seu nome original é Rapa Nui. Ela é famosa por seus sítios arqueológicos, que incluem as quase 900 estátuas monumentais chamadas moais, criadas pelos habitantes durante os séculos XIII a XVI. Os moais são figuras humanas esculpidas com cabeças gigantes que, muitas vezes, ficam sobre enormes pedestais de pedra, chamados ahus. Ahu Tongariki tem o maior grupo de moais verticais. ",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png",
+      "image": "https://s2.glbimg.com/ImLYBfv10FG8xTZh-nhapaZJy6E=/e.glbimg.com/og/ed/f/original/2019/12/16/easter-island-4523179_1280.jpg"
+    },
+    { 
+      "id": 4, 
+      "city": "Havaí", 
+      "country": "Estados Unidos", 
+      "description": "O Havaí, um estado dos EUA, é um arquipélago vulcânico isolado no Pacífico Central. Suas ilhas são conhecidas pelas paisagens acidentadas compostas de penhascos, cachoeiras, florestas tropicais e praias com areia dourada, vermelha, preta e até mesmo verde. Das 6 ilhas principais, Oahu tem a maior cidade e capital do Havaí, Honolulu, que abriga a praia de Waikiki, em formato de lua crescente, e os memoriais da Segunda Guerra Mundial, em Pearl Harbor.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/800px-Flag_of_Hawaii.svg.png",
+      "image": "https://sweetway.com.br/wp-content/uploads/2019/05/7-motivos-viagem-havai-inesquecivel.jpg"
+    },
+    { 
+      "id": 5, 
+      "city": "Bora Bora", 
+      "country": "Polinésia Francesa", 
+      "description": "Bora Bora é uma pequena ilha do Pacífico Sul, a noroeste do Taiti, na Polinésia Francesa. Rodeada por motus (ilhotas) arenosos e por uma lagoa azul-turquesa protegida por um recife de coral, ela é conhecida como destino de mergulho. A ilha também abriga resorts de luxo, com alguns bangalôs acima da água, sustentados por palafitas. No centro da ilha, o Monte Otemanu é um vulcão adormecido de 727 m de altitude.",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/255px-Flag_of_French_Polynesia.svg.png",
+      "image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/16/38/163813_v3.jpeg"
+    }]
+  } 
+
+}
